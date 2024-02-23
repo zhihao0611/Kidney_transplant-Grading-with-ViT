@@ -1,3 +1,2 @@
 Since the mil libraty is private, so this repo only shows the part about Swin and categorical focal loss
-[项目结果展示](项目结果展示.pdf)
-![Description of image](url-to-image)
+##![image](https://user-images.githubusercontent.com/36615789/133278340-48050da2-192b-4851-87ab-ba090545886a.png)
